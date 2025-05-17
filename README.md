@@ -1,10 +1,21 @@
 # Imersao-Alura-com-GoogleGemini
-Este projeto é um desafio proposto pela Imersão da Alura junto com o Google Gemini, consiste na criação de agentes de Inteligencia Artificial (auxilio do gemini).
+Desafio proposto pela Imersão da Alura junto com o Google Gemini, consiste na criação de agentes de Inteligencia Artificial (auxilio do gemini).
+Este projeto nasceu da vontade de resolver uma dor real enfrentada por muitas empresas: um processo de onboarding mal estruturado. Apesar de subestimado, o onboarding tem um grande potencial de agregar valor quando bem conduzido.
+Com base no que aprendi durante a Imersão Alura, desenvolvi uma solução voltada especialmente para pequenas e médias empresas: um assistente inteligente que torna o onboarding mais acessível, ágil e eficiente.
+
 > 📎 [Clique aqui para visualizar o PDF de exemplo de onboarding](./ONBOARDING-TESTE.pdf)
 
 
 
-# 🤖 Assistente de Onboarding com IA – Projeto Final
+# 🤖 Assistente de Onboarding com IA 
+
+O funcionamento é simples: a empresa fornece um único PDF contendo as informações relevantes sobre sua cultura, estrutura e processos. A partir desse arquivo, o assistente utiliza inteligência artificial para dar suporte ao novo colaborador por meio de dois agentes:
+
+Um agente de boas-vindas, que guia o início da jornada de forma acolhedora.
+
+Um agente tira-dúvidas, que responde às perguntas do colaborador com base no conteúdo do PDF, sem que ele precise buscar manualmente em documentos extensos.
+
+O **objetivo** é que o novo funcionário tenha acesso rápido e fluido às informações que precisa, sem se sentir perdido nos primeiros dias.
 
 Este projeto é uma proposta de inovação para **empresas de pequeno e médio porte** que desejam tornar o processo de integração de novos colaboradores mais **eficiente, acolhedor e automatizado**, mesmo sem um setor de RH estruturado.
 
